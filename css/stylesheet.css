@@ -1,5 +1,5 @@
 body{color: #333333;
-	font-family: Tahoma, Geneva, sans-serif;
+	font-family: 'Bitter', serif;
 	font-size: 24px;
 	font-style: normal;
 	font-variant: normal;
@@ -8,6 +8,7 @@ body{color: #333333;
 	background-size: cover;
 
 }
-h1{
-	
+#slogan{
+	font-family: Tahoma, Geneva, sans-serif
+	font-style: italic;
 }
